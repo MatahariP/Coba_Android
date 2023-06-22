@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AB_Tugas1_Adip</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="gambar_item">Gambar Item</string>
+    <string name="deskripsi_item">Deskripsi Item</string>
+    <string name="judul_item">Judul Item</string>
+</resources>
